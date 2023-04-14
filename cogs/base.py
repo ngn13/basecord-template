@@ -1,4 +1,3 @@
-GUILDS = []
 from basecord import Cog
 from nextcord import Interaction
 from nextcord import slash_command
