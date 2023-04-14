@@ -3,7 +3,7 @@ from basecord import Cog
 from nextcord import Interaction
 from nextcord import slash_command
 
-class hello(Cog):
+class base(Cog):
     def __init__(self, bc):
         super().__init__(bc)
     
